@@ -2,9 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, open the cloned folder in your preferred code editor, install the required
+dependencies by running the following command in the terminal:
 
 ```bash
+npm install
+
+Then, run the development server:
+
 npm run dev
 # or
 yarn dev
